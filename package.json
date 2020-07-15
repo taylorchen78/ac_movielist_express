@@ -1,0 +1,24 @@
+{
+  "name": "MOVIE_LIST",
+  "version": "1.0.0",
+  "description": "\"# ac_movielist_express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorchen78/ac_movielist_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorchen78/ac_movielist_express/issues"
+  },
+  "homepage": "https://github.com/taylorchen78/ac_movielist_express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.0.0"
+  }
+}
